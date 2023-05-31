@@ -20,7 +20,7 @@ setup(
     include_package_data=True,
     scripts=['yasgg/bin/yasggctl'],
     install_requires=[
-        'Jinja2==2.7.1',
+        'Jinja2==2.11.3',
         'MarkupSafe==0.18',
         'Pillow==2.2.1',
         'YASGG==0.1',
