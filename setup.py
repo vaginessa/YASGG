@@ -22,7 +22,7 @@ setup(
     install_requires=[
         'Jinja2==2.7.1',
         'MarkupSafe==0.18',
-        'Pillow==2.2.1',
+        'Pillow==9.3.0',
         'YASGG==0.1',
         'beautifulsoup4==4.3.2',
         'docopt==0.6.1',

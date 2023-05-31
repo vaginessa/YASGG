@@ -4,7 +4,7 @@ jac==0.9
 Jinja2==2.7.1
 Markdown==2.3.1
 MarkupSafe==0.18
-Pillow==2.2.1
+Pillow==9.3.0
 pycrypto==2.6.1
 python-slugify==0.0.7
 tendo==0.2.4
